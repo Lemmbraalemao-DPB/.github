@@ -23,4 +23,4 @@ Falls du interessiert bist, zu **unseren Projekten beizutragen**, sieh dir unser
 
 ## 📬 Kontakt & Community
 Bleib mit uns in Verbindung:
-- 📧 [E-Mail](mailto:kontakt@your-org.com)
+- 📧 [E-Mail](mailto:lemmbraalemao-DPB@outlook.de)
