@@ -1,4 +1,4 @@
-# Willkommen bei Lemmbraalemao-DPB 👋
+# Willkommen bei Lemmbra-alemao-DPB 👋
 
 ## 🏢 Über uns
 Wir sind eine Gruppe von Entwicklern und Forschenden, die sich im Rahmen von Lemmbraalemao-DPB zusammengeschlossen haben. Unser Fokus liegt auf der Digitalisierung und wissenschaftlichen Erforschung deutschsprachiger Printmedien in Brasilien zwischen 1852 und 1941. Dieses Projekt geht auf die Initiative des Germanisten Prof. Dr. Paulo Soethe (UFPR/UFF) zurück und hat das Ziel, historische Zeitungen, Almanache und Zeitschriften zu digitalisieren, zu katalogisieren und wissenschaftlich auszuwerten.
